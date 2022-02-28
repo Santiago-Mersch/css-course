@@ -1,0 +1,27 @@
+* { 			
+	color:red;
+}
+
+h1 {
+	color: blue;
+}
+
+h2 {
+	color:green;
+}
+.title {
+	color:red;
+}
+#id-element{
+	color:yellow;
+}
+[value = "hello"] {
+	color:green;
+}
+p b {
+	color: black;
+}
+
+*:hover{
+	color :red;
+}
